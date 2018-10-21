@@ -14,7 +14,6 @@ def variavel_f(txt):
         return 0
     return 1
 kkk
-kk
 k
 kk
 
@@ -35,5 +34,3 @@ def numeros_f(txt):
         return 0 
     return 1
 
-oierierasdasdsad
-    
