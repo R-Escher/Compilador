@@ -13,4 +13,20 @@ def variavel_f(txt):
     if txt[0] == '':
         return 0
     return 1
+
+def numeros(txt):
+    num=['0','1','2','3','4','5','6','7','8','9']
+    if txt[0] in num:
+        return numeros_f(txt[1:])
+    return 1 
+
+def numeros_f(txt):
+    num=['0','1','2','3','4','5','6','7','8','9']
+    if txt[0] in num:
+        return numeros_f(txt[1:])
+    if txt[0]=='':
+        return 0 
+    return 1
+
+oierier
     
