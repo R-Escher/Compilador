@@ -13,12 +13,6 @@ def variavel_f(txt):
     if txt[0] == '':
         return 0
     return 1
-kkk
-k
-kk
-
-k
-
 
 def numeros(txt):
     num=['0','1','2','3','4','5','6','7','8','9']
